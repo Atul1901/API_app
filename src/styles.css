@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.layout {
+  /* flex: 1; */
+  margin: 115px;
+  padding: 0;
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 36px;
+}
