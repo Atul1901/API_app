@@ -11,7 +11,7 @@ function App() {
   const [movie, setMovie] = useState();
 
   const apiCall = async () => {
-    // const res = await movieAPi();
+    const res = await movieAPi();
     setMovie(res.data.results);
 
     console.log("response2", res.data.results);

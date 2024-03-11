@@ -1,7 +1,7 @@
 .container {
   width: 300px;
   height: 400px;
-  background-color: white;
+  /* background-color: white; */
   border-radius: 20px;
   display: flex;
 
@@ -11,7 +11,6 @@
   background-size: cover;
   /* opacity: 30%; */
   /* box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5); */
-  border: 5px solid white;
 }
 
 .top-box {
